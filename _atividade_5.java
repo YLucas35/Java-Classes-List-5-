@@ -12,7 +12,7 @@ public class _atividade_5 {
         System.out.println("Digite um número para ser o seu limite da contagem");
         limit = sc.nextInt();
 
-        while (count<limit) {
+        while (count < limit) {
             count = count + 5;
             System.out.println(count);
         }
