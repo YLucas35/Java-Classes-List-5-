@@ -6,8 +6,8 @@ public class _atividade_2 {
 
         count = 20;
 
-        while (count>0) {
-            count=count -1;
+        while (count > 0) {
+            count = count - 1;
             System.out.println(count);
         }
     }
