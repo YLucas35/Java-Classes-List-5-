@@ -4,7 +4,7 @@ public class _atividade_6 {
     public static void main(String[] args) {
         int count, plus, oldplus;
 
-        plus = 0;
+        plus = 1;
         count = 1;
 
         while (count <= 10) {
